@@ -1,0 +1,1 @@
+javascript:if%28document.cookie.length%3C1%29%7Balert%28%27No%20cookie%20for%20this%20site.%27%29%7Delse%7Balert%28%27Cookie%20for%20this%20site:%27+document.cookie%29%7D
